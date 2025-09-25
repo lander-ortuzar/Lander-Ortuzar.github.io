@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# ¡Hola! Soy Lander
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Estudiante de [Grado] especializado en [área].
 
-## Commands
+## Sobre mí
+Breve descripción personal...
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Proyectos destacados 
+- Proyecto 1: [descripción]
+- Proyecto 2: [descripción]
