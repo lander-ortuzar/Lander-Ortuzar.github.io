@@ -1,5 +1,4 @@
 # Contacto
 
-- **Email**: tu-email@ejemplo.com
-- **GitHub**: https://github.com/tu-usuario
-- **LinkedIn**: [tu perfil]
+- **Email**: landerroz05@gmail.com
+- **GitHub**: https://github.com/lander-ortuzar
