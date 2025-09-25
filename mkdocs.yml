@@ -3,7 +3,7 @@ site_author: Lander
 site_url: https://Lander-Ortuzar.github.io
 
 theme:
-  name: readthedocs  
+  name: dracula  
 
 nav:
   - Inicio: index.md
