@@ -2,7 +2,7 @@
 
 ## Datos academisos 
 <details open style="margin-bottom: 10px; padding-left: 10px;">
-  <summary style="font-size: 16px;">Inteligencia Artificial y Big Data</summary>
+  <summary style="font-size: 20px;">Inteligencia Artificial y Big Data</summary>
   &nbsp;&nbsp;Grado Superior | Septiembre 2023 - Julio 2025 <br> 
   &nbsp;&nbsp;Centro Formación Somorrostro
 </details>
