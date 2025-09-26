@@ -26,9 +26,28 @@
 </details>
 
 ## Habilidades
-- Python
-- Elastic
-- Git
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div>Python</div>
+  <div>Java</div>
+  <div>Git</div>
+  <div>SQL</div>
+  <div>.NET</div>
+  <div>HTML</div>
+  <div>CSS</div>
+  <div>C++</div>
+</div>
+
 
 ## Experiencia
-[Describe tu experiencia]
+<details open style="margin-bottom: 10px; padding-left: 10px;">
+  <summary style="font-size: 20px;">Camara de Comercio Bilbao</summary>
+  &nbsp;&nbsp;febrero 2025 - Julio 2025 <br> 
+  &nbsp;&nbsp;Modificaciones de en la WEB en Wordpress
+</details>
+
+<details style="margin-bottom: 10px; padding-left: 10px;">
+  <summary style="font-size: 20px;">MasLife: Telefonía y Móviles</summary>
+  &nbsp;&nbsp;Marzo 2023 - Junio 2023 <br> 
+  &nbsp;&nbsp;Creacion de Paginas en Wordpress
+</details>
