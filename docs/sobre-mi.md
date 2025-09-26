@@ -3,8 +3,10 @@
 ## Educación 
 <details open style="margin-bottom: 10px; padding-left: 10px;">
   <summary style="font-size: 20px;">Inteligencia Artificial y Big Data</summary>
+  <div style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; margin-top: 5px; border-radius: 5px;">
   &nbsp;&nbsp;Grado Superior | Septiembre 2025 - Actualidad <br> 
   &nbsp;&nbsp;Centro Formación Somorrostro
+  </div>
 </details>
 
 <details style="margin-bottom: 10px; padding-left: 10px;">
