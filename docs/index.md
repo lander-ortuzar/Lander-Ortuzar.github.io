@@ -3,10 +3,11 @@
 ## Datos academisos 
 <details open>
   <summary>Inteligencia Artificial y Big Data</summary>
-  
-    Curso de Especializacion de FP | Septiembre 2025 - actualidad  
-    Centro Formación Somorrostro
+  &nbsp;&nbsp;Grado Superior | Septiembre 2023 - Julio 2025 <br> 
+  &nbsp;&nbsp;Centro Formación Somorrostro
 </details>
+
+
 
 <details >
   <summary>Desarrollo de Aplicación Multiplataforma (DAM3)</summary>
