@@ -8,7 +8,6 @@ theme:
 nav:
   - Inicio: index.md
   - Sobre Mí: sobre-mi.md
-  - Proyectos: proyectos.md
   - Contacto: contacto.md
 
 repo_url: https://github.com/lander-ortuzar/Lander.Ortuzar.github.io
