@@ -35,16 +35,12 @@
 
 ## Habilidades
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div>Python</div>
-  <div>Java</div>
-  <div>Git</div>
-  <div>SQL</div>
-  <div>.NET</div>
-  <div>HTML</div>
-  <div>CSS</div>
-  <div>C++</div>
-</div>
+* **Lenguajes de Programación:** Python, Java, C#, .NET, C++
+* **Bases de Datos:** SQL (MySQL, SQL Server), Bases de Datos NoSQL (p.ej., InfluxDB)
+* **Desarrollo Web (Frontend):** HTML, CSS
+* **Plataformas y DevOps:** Git, Docker
+* **Visualización y Monitorización:** Grafana
+* **Sistemas de Gestión de Contenidos (CMS):** WordPress
 
 
 ## Experiencia
