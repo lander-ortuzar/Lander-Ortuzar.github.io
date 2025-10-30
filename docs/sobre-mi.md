@@ -1,5 +1,19 @@
 # Sobre Mí
 
+
+
+## Habilidades
+
+* **Lenguajes de Programación:** Python, Java, C#, .NET, C++
+* **Bases de Datos:** SQL (MySQL, SQL Server), Bases de Datos NoSQL (p.ej., InfluxDB)
+* **Desarrollo Web (Frontend):** HTML, CSS
+* **Plataformas y DevOps:** Git, Docker
+* **Visualización y Monitorización:** Grafana
+* **Sistemas de Gestión de Contenidos (CMS):** WordPress
+
+
+
+
 ## Educación 
 <details open style="margin-bottom: 10px; padding-left: 10px;">
   <summary style="font-size: 20px;">Inteligencia Artificial y Big Data</summary>
@@ -32,16 +46,6 @@
   &nbsp;&nbsp;Santa Maria Ikastetxea
   </div>
 </details>
-
-## Habilidades
-
-* **Lenguajes de Programación:** Python, Java, C#, .NET, C++
-* **Bases de Datos:** SQL (MySQL, SQL Server), Bases de Datos NoSQL (p.ej., InfluxDB)
-* **Desarrollo Web (Frontend):** HTML, CSS
-* **Plataformas y DevOps:** Git, Docker
-* **Visualización y Monitorización:** Grafana
-* **Sistemas de Gestión de Contenidos (CMS):** WordPress
-
 
 ## Experiencia
 <details open style="margin-bottom: 10px; padding-left: 10px;">

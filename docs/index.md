@@ -5,9 +5,8 @@
     </td>
     <td style="vertical-align: top; border: none;">
       <h1>¡Hola! Soy Lander 👋</h1>
-      > Soy un estudiante de **Inteligencia Artificial y BigData** con una gran pasión por la informática. Me considero una persona responsable y trabajadora, con una fuerte capacidad para la **resolución de problemas y el análisis**. 
-      >
-      > Busco activamente oportunidades para seguir aprendiendo y aplicando mis habilidades en un entorno profesional.
+      > Soy un estudiante de **Inteligencia Artificial y BigData** con una gran pasión por la informática. Me considero una persona responsable y trabajadora. 
+      <br>> Busco activamente oportunidades para seguir aprendiendo y aplicando mis habilidades en un entorno profesional.
     </td>
   </tr>
 </table>
