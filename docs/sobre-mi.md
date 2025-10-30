@@ -9,13 +9,11 @@
 * **Sistemas de Gestión de Contenidos (CMS):** WordPress
 
 
-
-
 ## Educación 
 <details open style="margin-bottom: 10px; padding-left: 10px;">
   <summary style="font-size: 20px;">Inteligencia Artificial y Big Data</summary>
   <div style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; margin-top: 5px; border-radius: 5px;">
-  &nbsp;&nbsp;Curso de Espcializacion | Septiembre 2025 - Actualidad <br> 
+  &nbsp;&nbsp;Curso de Espcializacion de IA y BigData | Septiembre 2025 - Actualidad <br> 
   &nbsp;&nbsp;Centro Formación Somorrostro
   </div>
 </details>
@@ -36,13 +34,6 @@
   </div>
 </details>
 
-<details style="margin-bottom: 10px; padding-left: 10px;">
-  <summary style="font-size: 20px;">Educacion Secundario Oblegatoria (E.S.O)</summary>
-  <div style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; margin-top: 5px; border-radius: 5px;">
-  &nbsp;&nbsp;Septiembre 2018 - Julio 2021 <br> 
-  &nbsp;&nbsp;Santa Maria Ikastetxea
-  </div>
-</details>
 
 ## Experiencia
 <details open style="margin-bottom: 10px; padding-left: 10px;">

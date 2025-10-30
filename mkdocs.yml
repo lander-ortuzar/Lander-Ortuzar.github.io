@@ -6,8 +6,7 @@ theme:
   name: dracula  
 
 nav:
-  - Inicio: index.md
-  - Sobre Mí: sobre-mi.md
-  - Contacto: contacto.md
+  - Sobre Mi: index.md
+  - Formalizacion y experiencia: sobre-mi.md
 
 repo_url: https://github.com/lander-ortuzar/Lander.Ortuzar.github.io
