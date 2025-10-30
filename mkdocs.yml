@@ -7,6 +7,6 @@ theme:
 
 nav:
   - Sobre Mi: index.md
-  - Formalización y experiencia: experiencia-formacion.md
+  - Formación y experiencia: experiencia-formacion.md
 
 repo_url: https://github.com/lander-ortuzar/Lander.Ortuzar.github.io
