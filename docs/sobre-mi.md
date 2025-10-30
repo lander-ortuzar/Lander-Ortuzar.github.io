@@ -1,6 +1,3 @@
-# Sobre Mí
-
-
 
 ## Habilidades
 
