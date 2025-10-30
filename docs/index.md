@@ -18,6 +18,12 @@
   <span><strong>GitHub:</strong> <a href="https://github.com/lander-ortuzar" target="_blank" style="color: #0056b3; text-decoration: none; font-weight: 500;">github.com/lander-ortuzar</a></span>
   <span><strong>Teléfono:</strong> 688 60 57 30</span>
   <span><strong>Localidad:</strong> Portugalete</span>
+  <br><span>
+    <a href="assets/CV_Lander_Ortuzar.pdf" download
+       style="background: #0073e6; color: white; padding: 6px 12px; border-radius: 8px; text-decoration: none; font-weight: 600; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: background 0.2s ease;">
+      📄 Descargar CV
+    </a>
+  </span>
 </div>
 
 
